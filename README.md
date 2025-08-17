@@ -7,18 +7,28 @@ Over the past 10+ years, I’ve grown from a marketing executive into a Marketin
 Along the way, I earned my MBA with Merit from the University of Sunderland, and was honored as a YSEALI Professional Fellow under the U.S. Department of State — experiences that strengthened both my technical expertise and my commitment to using knowledge for positive change.
 
 Currently upskilling in:
-	•	Machine Learning foundations and applications for marketing & social impact
-	•	Performance Marketing Analytics (GA4, BigQuery, Attribution Modeling)
-	•	Power BI & Excel for dashboards and insights
-	•	SQL & Python for marketing data analysis
-	•	AI tools for content, campaigns, and predictive insights
+
+ - Machine Learning foundations and applications for marketing & social impact
+ 
+ - Performance Marketing Analytics (GA4, BigQuery, Attribution Modeling)
+ 
+ - Power BI & Excel for dashboards and insights
+ 
+ - SQL & Python for marketing data analysis
+ 
+ - AI tools for content, campaigns, and predictive insights
 
 Awards, Honors & Highlights
-	•	MBA with Merit (65%) – University of Sunderland, UK
-	•	YSEALI Professional Fellows Program – U.S. Department of State
-	•	Selected applicant for the UNDP ML Bootcamp (Myanmar Region)
-	•	Led marketing insights projects including NPS, brand awareness, and campaign ROI tracking
-	•	Successfully managed ATL, BTL, and digital campaigns with budget accountability and measurable growth
+
+- MBA with Merit (65%) – University of Sunderland, UK
+
+- YSEALI Professional Fellows Program – U.S. Department of State
+
+- Selected applicant for the UNDP ML Bootcamp (Myanmar Region)
+
+- Led marketing insights projects including NPS, brand awareness, and campaign ROI tracking
+
+- Successfully managed ATL, BTL, and digital campaigns with budget accountability and measurable growth
 
 Passions
 I believe every dataset tells a story and I love transforming those stories into decisions that grow brands and empower people. Now, I’m deepening my path into Machine Learning and AI, with the goal of applying data-driven solutions to both business growth and community development.
